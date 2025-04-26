@@ -1,0 +1,11 @@
+{
+  "name": "brighte-eats",
+  "version": "1.0.0",
+  "description": "Gather leads (delivery, pick-up and payment)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
