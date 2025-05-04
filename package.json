@@ -1,13 +1,13 @@
 {
     "name": "brighte-eats-infra",
     "version": "1.0.0",
+    "private": true,
     "description": "Gather leads (delivery, pick-up and payment)",
-    "main": "index.js",
     "packageManager": "npm@10.6.0",
     "scripts": {
         "build": "turbo run build"
     },
-    "author": "",
+    "author": "Calil Christopher Jaudian",
     "license": "ISC",
     "workspaces": [
         "./applications/**",
